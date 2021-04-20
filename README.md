@@ -39,7 +39,7 @@ Source info: {'community': 'InfluxDB', 'name': 'Test', 'icon_name': 'fab fa-twit
 Member: {'origin_id': 'test-1', 'username': 'test_user_1', 'name': 'API Test User', 'email': 'api@test.com', 'avatar': None, 'tags': ['api-test']}
 ```
 
-## Adding a Converation
+## Adding a Conversation
 
 ```
 >>> convo_tstamp = datetime.datetime(2021, 4, 19, 13, 35, 00)
