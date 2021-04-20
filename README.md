@@ -2,6 +2,12 @@
 
 This client library wraps the [Savannah CRM API](https://docs.savannahhq.com/api/), making it easier to import community members and activity from your own Python code.
 
+## Install
+
+```
+pip install savannahcrm-client
+```
+
 # Usage
 
 ## Connecting to an API Source
